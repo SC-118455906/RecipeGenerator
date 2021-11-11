@@ -6,7 +6,6 @@ export default function App() {
   return (
     <View style={styles.container}>
       <Text>Ingredient Store</Text>
-        <Text> test</Text>
       <Image source={{uri: '../../assets/favicon.png'}} style={{ width: 200, height: 200 }}/>
       <StatusBar style="auto" />
     </View>
